@@ -2,15 +2,18 @@
 
 ###
 
-<img align="right" height="200" src="https://64.media.tumblr.com/d7d6aac38aa038e413bc71649cbdb71c/2b2e33b7f57aa1cb-e6/s1280x1920/8b32855bb89f561d298a0c132676808d89884559.gif"  />
-
-###
-
 <h3 align="left">about me</h3>
 
 ###
 
-<p align="left">🌱 im studying **Multiplatform Application Development**<br><br>👨‍💻 im currently learning **React, Javascript and Python**<br><br>💘 my favorite language is **Kotlin**<br><br>📫 how to reach me: **https://www.linkedin.com/in/niky19/**<br><br>✨ Fun fact: **I love graphic design, specially UI/UX!**</p>
+<img align="right" height="250" src="https://pbs.twimg.com/media/F40_A1sakAAh9XZ?format=jpg&name=large"  />
+
+###
+
+<p align="left">🌱 im studying <b>Multiplatform Application Development</b><br>
+  <br>👨‍💻 im currently learning <b>React</b>, <b>Javascript</b> and <b>Python</b><br>
+  <br>💘 my favorite language is <b>Kotlin</b><br>
+  <br>📫 how to reach me: <a href="https://www.linkedin.com/in/niky19/" target="_blank"> LinkedIn </a> <br><br>✨ fun fact: i love graphic design, specially <b>UX/UI!</b></p>
 
 ###
 
