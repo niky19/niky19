@@ -1,17 +1,35 @@
-<h1 align="center">Hello World, I'm Niky 👋</h1>
-<h3 align="center">kotlin enjoyer currently studying</h3>
+<h2 align="left">hello world 👋 im niky</h2>
 
+###
 
+<img align="right" height="200" src="https://64.media.tumblr.com/d7d6aac38aa038e413bc71649cbdb71c/2b2e33b7f57aa1cb-e6/s1280x1920/8b32855bb89f561d298a0c132676808d89884559.gif"  />
 
-- 🌱 I’m currently studying **Multiplatform Application Development**
+###
 
-- 👨‍💻 I’m currently learning **React, Javascript and Python**
+<h3 align="left">about me</h3>
 
-- 💘 My favorite language is **Kotlin**
+###
 
-- 📫 How to reach me: **nikita@kuromi.com**
+<p align="left">🌱 im studying **Multiplatform Application Development**<br><br>👨‍💻 im currently learning **React, Javascript and Python**<br><br>💘 my favorite language is **Kotlin**<br><br>📫 how to reach me: **https://www.linkedin.com/in/niky19/**<br><br>✨ Fun fact: **I love graphic design, specially UI/UX!**</p>
 
-- 🌺 Fun fact: **I love graphic design, specially UI/UX!**
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br clear="both">
+
+<h3 align="left">i code with...</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
