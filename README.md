@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="250" src="https://pbs.twimg.com/media/F40_A1sakAAh9XZ?format=jpg&name=large"  />
+<img align="right" height="220" src="https://pbs.twimg.com/media/F40_A1sakAAh9XZ?format=jpg&name=large"  />
 
 ###
 
