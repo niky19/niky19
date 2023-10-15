@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<h3 align="left">i code with...</h3>
+<h3 align="left">languages and tools</h3>
 
 ###
 
