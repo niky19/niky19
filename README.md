@@ -13,6 +13,7 @@
 <p align="left">🌱 im studying <b>Multiplatform Application Development</b><br>
   <br>👨‍💻 im currently learning <b>React</b>, <b>Javascript</b> and <b>Python</b><br>
   <br>💘 my favorite language is <b>Kotlin</b><br>
+  <br>✨ im a <b>clean code</b> enthusiast<br>
   <br>📫 how to reach me: <a href="https://www.linkedin.com/in/niky19/" target="_blank"> LinkedIn </a> <br><br>✨ fun fact: i love graphic design, specially <b>UX/UI!</b></p>
 
 ###
